@@ -1,5 +1,4 @@
 //This is a change in new-feature
->>>>>>> new-feature
 <html>  
 <head>  
 <script type="text/javascript">  
