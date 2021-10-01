@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 // This is a change in development branch 
+=======
+//This is a change in new-feature
+>>>>>>> new-feature
 =======
 //This is a change in new-feature
 >>>>>>> new-feature
